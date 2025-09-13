@@ -1,6 +1,6 @@
 import "./index.css";
 import { ThemeProvider } from "./components/theme-provider";
-import { Header } from "./components/Header";
+import { Header } from "./components/header";
 import { Hero } from "./components/hero";
 
 function App() {
