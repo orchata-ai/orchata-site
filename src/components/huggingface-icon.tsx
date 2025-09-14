@@ -13,7 +13,7 @@ export function HuggingfaceIcon() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <img src="/huggingface.png" alt="Huggingface" />
+        <img src="/hf-logo.svg" alt="Huggingface" />
       </a>
     </div>
   );

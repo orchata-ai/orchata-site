@@ -5,6 +5,7 @@
   font-family: "Apercu Mono Pro";
   src: url("https://cdn.orchata.ai/fonts/ApercuMonoPro.woff2") format("woff2");
   src: url("https://cdn.orchata.ai/fonts/ApercuMonoPro.ttf") format("ttf");
+  font-display: swap;
   font-weight: normal;
   font-style: normal;
 }
@@ -13,6 +14,7 @@
   font-family: "Suisse Intl";
   src: url("https://cdn.orchata.ai/fonts/SuisseIntlReg.woff2") format("woff2");
   src: url("https://cdn.orchata.ai/fonts/SuisseIntlReg.ttf") format("ttf");
+  font-display: swap;
   font-weight: normal;
   font-style: normal;
 }
@@ -21,6 +23,7 @@
   font-family: "Suisse Intl Bold";
   src: url("https://cdn.orchata.ai/fonts/SuisseIntlBold.woff2") format("woff2");
   src: url("https://cdn.orchata.ai/fonts/SuisseIntlBold.ttf") format("ttf");
+  font-display: swap;
   font-weight: bold;
   font-style: normal;
 }
