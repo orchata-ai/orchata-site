@@ -3,24 +3,24 @@
 
 @font-face {
   font-family: "Apercu Mono Pro";
-  src: url("https://orchata-ai-cdn.pages.dev/ApercuMonoPro.woff2") format("woff2");
-  src: url("https://orchata-ai-cdn.pages.dev/ApercuMonoPro.ttf") format("ttf");
+  src: url("https://cdn.orchata.ai/fonts/ApercuMonoPro.woff2") format("woff2");
+  src: url("https://cdn.orchata.ai/fonts/ApercuMonoPro.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Suisse Intl";
-  src: url("https://orchata-ai-cdn.pages.dev/SuisseIntlReg.woff2") format("woff2");
-  src: url("https://orchata-ai-cdn.pages.dev/SuisseIntlReg.ttf") format("ttf");
+  src: url("https://cdn.orchata.ai/fonts/SuisseIntlReg.woff2") format("woff2");
+  src: url("https://cdn.orchata.ai/fonts/SuisseIntlReg.ttf") format("ttf");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Suisse Intl Bold";
-  src: url("https://orchata-ai-cdn.pages.dev/SuisseIntlBold.woff2") format("woff2");
-  src: url("https://orchata-ai-cdn.pages.dev/SuisseIntlBold.ttf") format("ttf");
+  src: url("https://cdn.orchata.ai/fonts/SuisseIntlBold.woff2") format("woff2");
+  src: url("https://cdn.orchata.ai/fonts/SuisseIntlBold.ttf") format("ttf");
   font-weight: bold;
   font-style: normal;
 }
